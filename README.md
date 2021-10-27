@@ -11,7 +11,7 @@ Download & Use Instruction:
 
 When run it on your python, it will ask for user's name, age and where they come from, then print out a greeting message base on these information.  
 
-__License__: Please carefully read the license before you use the program. It is important to know that although it is an free open-source software, it doesn't mean you can abuse it. While giving maximum freedom of use, we do not want this program to be abused. We are not responsible for any consequences of abuse.  
+__License__: Please carefully read the __LICENSE.md__ before you use the program. It is important to know that although it is an free open-source software, it doesn't mean you can abuse it. While giving maximum freedom of use, we do not want this program to be abused. We are not responsible for any consequences of abuse.  
 As the original author, we are providing only the original samples. We refuse to be liable for claims of any kind.
   
   
