@@ -1,5 +1,5 @@
 # hello-world
-This is a python program to ask user for their name, age and where they from, then print out a greeting with all those information.\n
+This is a python program to ask user for their name, age and where they from, then print out a greeting with all those information.  
 Group member: Zhexi Wu, Le Lin
 
 
@@ -13,4 +13,3 @@ When run it on your python, it will ask for user's name, age and where they come
 
 
 ## How to contribute
-
