@@ -13,3 +13,7 @@ When run it on your python, it will ask for user's name, age and where they come
 
 
 ## How to contribute
+We welcome you to develop our project with us!  
+If you want to make some change, you may add new files to our repository and make a pull request.  
+We will carefully review your work and merge it to the main branch. We are so appreciate your contribution to our project.  
+If you have any question, please send me a e-mail: LEL112@pitt.edu
