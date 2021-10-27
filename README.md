@@ -3,7 +3,7 @@ This is a python program to ask user for their name, age and where they from, th
 Group member: Zhexi Wu, Le Lin
 
 
-## How to use it
+## How to use it:
 Download Instruction:
 1. click on the green "Code" button, 
 2. Download the zip file to your computer. 
