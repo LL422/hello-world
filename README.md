@@ -13,8 +13,9 @@ When run it on your python, it will ask for user's name, age and where they come
 
 __License__: Please carefully read the license before you use the program. It is important to know that although it is an open-source software, it doesn't mean you can abuse it. We are not responsible for any consequences of abuse.   
 As the original author, we are providing only the original samples. We refuse to be liable for claims of any kind.
-
-
+  
+  
+## How to contribute:  
 If you want to make some change, you may add new files to our repository and make a pull request.  
 __Important Message__: While you make change to this project, please review the __Code of Conduct__. We use this policy to make sure everyone is respectful to each other.  
 When we share our ideas in this community, we want this environment to be peaceful. We don't want this project to be abused, it is the hard work of everyone involved.  
